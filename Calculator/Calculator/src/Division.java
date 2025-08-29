@@ -6,12 +6,7 @@ public class Division extends Operation{
 
     @Override
     public double execution(double a, double b) {
-        if (b == 0) {
-            return Double.NaN;
-        } else {
-            return a / b;
-        }
-
+        return (b!=0)? a/b : Double.NaN;
     }
 
     @Override

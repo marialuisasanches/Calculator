@@ -8,8 +8,10 @@ public class History {
         this.registro.add(operacao);
     }
 
-    public void mostrarRegistro(String operacao) {
-        System.out.println(operacao);
+    public void mostrarRegistro() {
+        for (String operacao : registro) {
+            System.out.println(operacao);
+        }
     }
 
     public void removerRegistro(String operacao) {

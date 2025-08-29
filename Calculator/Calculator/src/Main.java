@@ -19,6 +19,17 @@ public class Main {
         System.out.println(m3.getName());
         System.out.println(d4.getName());
 
+        History h = new History();
+
+        h.adicionarRegistro("Addiction: " + a1.execution(2,3));
+        h.adicionarRegistro("Subtraction: " + s2.execution(4,5));
+        h.adicionarRegistro("Multiplication: " + m3.execution(6,7));
+        h.adicionarRegistro("Division: " + d4.execution(9,0));
+
+        System.out.println("Histórico de operações:");
+        h.mostrarRegistro();
+
+
 
 
 
