@@ -6,8 +6,17 @@ public abstract class Operation {
         this.a = a;
         this.b = b;
     }
+        public abstract double execution();
 
-    public abstract double execution(double a, double b);
-    public abstract String getName();
+        public abstract String getName();
 
-}
+        public String getRegistro() {
+            double result = execution();
+            return (Double.isNaN(result))
+                    ? a + " " + getName() + " " + b + " = inválido"
+                    : a + " " + getName() + " " + b + " = " + result;
+        }
+    }
+
+
+

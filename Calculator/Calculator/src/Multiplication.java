@@ -5,12 +5,12 @@ public class Multiplication extends Operation {
     }
 
     @Override
-    public double execution(double a, double b) {
+    public double execution() {
         return a * b;
     }
 
     @Override
     public String getName() {
-        return "Multiplication";
+        return "*";
     }
 }

@@ -5,12 +5,12 @@ public class Division extends Operation{
     }
 
     @Override
-    public double execution(double a, double b) {
+    public double execution() {
         return (b!=0)? a/b : Double.NaN;
     }
 
     @Override
     public String getName() {
-        return "Division";
+        return "/";
     }
 }

@@ -1,16 +1,18 @@
-public class Subtraction extends Operation {
+public class Addition extends Operation {
 
-    public Subtraction(double a, double b) {
+    public Addition(double a, double b) {
         super(a, b);
     }
 
     @Override
     public double execution() {
-        return a - b;
+        return a + b;
     }
 
     @Override
     public String getName() {
-        return "-";
+        return "+";
     }
+
+
 }
