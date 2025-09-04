@@ -13,6 +13,7 @@ Uma calculadora simples desenvolvida em Java utilizando Programação Orientada 
 - Java JDK 8 ou superior
 - IDE para Java ou terminal para compilar o código
 
+## Estrutura do Projeto
 ```text
 Calculator/
 ├─ Main.java # Ponto de entrada da aplicação
