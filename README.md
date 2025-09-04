@@ -13,16 +13,17 @@ Uma calculadora simples desenvolvida em Java utilizando Programação Orientada 
 - Java JDK 8 ou superior
 - IDE para Java ou terminal para compilar o código
 
-## Estrutura do Projeto
+Estrutura do Projeto
 Calculator/
-├─ Main.java # Ponto de entrada da aplicação
-├─ Calculator.java # Classe principal da calculadora
-├─ Addition.java # Classe de adição
-├─ Subtraction.java # Classe de subtração
+├─ Main.java        # Ponto de entrada da aplicação
+├─ Calculator.java   # Classe principal da calculadora
+├─ Addition.java     # Classe de adição
+├─ Subtraction.java  # Classe de subtração
 ├─ Multiplication.java # Classe de multiplicação
-├─ Division.java # Classe de divisão
-├─ Operation.java # Classe abstrata das operações
-└─ History.java # Classe para registrar histórico das operações
+├─ Division.java     # Classe de divisão
+├─ Operation.java    # Classe abstrata das operações
+└─ History.java      # Classe para registrar histórico das operações
+
 
 
 ## Autor
