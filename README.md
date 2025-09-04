@@ -15,15 +15,14 @@ Pré-requisitos
   
 Calculator/
 │
-├─ Main.java           # Ponto de entrada da aplicação
-├─ Calculator.java     # Classe principal da calculadora
-├─ Addition.java       # Classe de adição
-├─ Subtraction.java    # Classe de subtração
+├─ Main.java # Ponto de entrada da aplicação
+├─ Calculator.java # Classe principal da calculadora
+├─ Addition.java # Classe de adição
+├─ Subtraction.java # Classe de subtração
 ├─ Multiplication.java # Classe de multiplicação
-├─ Division.java       # Classe de divisão
-├─ Operation.java      # Classe abstrata das operações
-└─ History.java        # Classe para registrar histórico das operações
-
+├─ Division.java # Classe de divisão
+├─ Operation.java # Classe abstrata das operações
+└─ History.java # Classe para registrar histórico das operações
 
 Autor: Maria Luisa Sanches
 GitHub: marialuisasanches
