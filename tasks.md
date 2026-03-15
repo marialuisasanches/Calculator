@@ -1,6 +1,6 @@
 # Tasks
 
-- [/] wfedsg
+- [ ] wfedsg
   - [ ] dsgfcnbv
   - [ ] S|ZDxfbv
 - [/] Definir primeiras tasks
