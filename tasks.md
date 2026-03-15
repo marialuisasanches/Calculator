@@ -6,4 +6,4 @@
 - [/] wfedsg
   - [ ] dsgfcnbv
   - [ ] S|ZDxfbv
-- [x] Setup inicial do projeto
+- [/] Setup inicial do projeto
