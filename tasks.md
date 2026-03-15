@@ -4,6 +4,6 @@
   - [ ] Revisar backlog
   - [ ] Priorizar sprint
 - [/] Setup inicial do projeto
-- [/] wfedsg
+- [x] wfedsg
   - [ ] dsgfcnbv
   - [ ] S|ZDxfbv
