@@ -6,4 +6,4 @@
 - [/] Definir primeiras tasks
   - [ ] Revisar backlog
   - [ ] Priorizar sprint
-- [x] Setup inicial do projeto
+- [/] Setup inicial do projeto
