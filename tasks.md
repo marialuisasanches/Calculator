@@ -4,6 +4,6 @@
 - [x] Definir primeiras tasks
   - [ ] Revisar backlog
   - [ ] Priorizar sprint
-- [/] wfedsg
+- [ ] wfedsg
   - [ ] dsgfcnbv
   - [ ] S|ZDxfbv
