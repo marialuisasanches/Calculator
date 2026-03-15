@@ -3,7 +3,7 @@
 - [/] Definir primeiras tasks
   - [ ] Revisar backlog
   - [ ] Priorizar sprint
-- [/] Setup inicial do projeto
 - [ ] wfedsg
   - [ ] dsgfcnbv
   - [ ] S|ZDxfbv
+- [ ] Setup inicial do projeto
